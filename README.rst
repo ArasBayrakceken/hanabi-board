@@ -3,13 +3,15 @@ Hanabi Board
 ============
 
 
-.. image:: https://img.shields.io/pypi/v/hanabi_board.svg
+.. 
+        image:: https://img.shields.io/pypi/v/hanabi_board.svg
         :target: https://pypi.python.org/pypi/hanabi_board
 
 .. image:: https://img.shields.io/travis/ArasBayrakceken/hanabi_board.svg
         :target: https://travis-ci.com/ArasBayrakceken/hanabi_board
 
-.. image:: https://readthedocs.org/projects/hanabi-board/badge/?version=latest
+.. 
+        image:: https://readthedocs.org/projects/hanabi-board/badge/?version=latest
         :target: https://hanabi-board.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
